@@ -59,6 +59,9 @@ La academia tiene:
 *Nota: Tener en cuenta que éste es solo un escenario posible. Podría haber otro donde haya por ejemplo, 
 otro baúl más de otra capacidad, más gabinetes, etc.*
 
+
+
+
 ### Requerimientos:
 
 1. **Saber si una cosa está guardada o no en la academia.**
